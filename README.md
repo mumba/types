@@ -16,6 +16,6 @@ $ typings install TestModel=github:mumba/types/test.d.ts#master --save
 ```
 
 ## 3. Use in your project
-```
+```typescript
 import {Test} from 'TestModel';
 ```
